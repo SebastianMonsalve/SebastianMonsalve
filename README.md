@@ -25,7 +25,7 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Csharp-00DC96?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp logo"  title="Csharp" height="25"/>
+<img src = "https://img.shields.io/badge/Csharp-6D00FF?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp logo"  title="Csharp" height="25"/>
 </span>
 &nbsp;
 
