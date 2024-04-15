@@ -29,8 +29,6 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 </span>
 &nbsp;
 
-<br>
-
 ### <u> Frontend and Backend Development Technologies and Tools: </u>
 
 <br>
