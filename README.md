@@ -37,6 +37,8 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TailwindCSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS logo" title="TailwindCSS" height="25"/></span>
+&nbsp;
 
 ### <u> Database Management: </u>
 
