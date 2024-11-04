@@ -21,10 +21,6 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
-</span>
-&nbsp;
-<span>
 <img src = "https://img.shields.io/badge/Csharp-6D00FF?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp logo"  title="Csharp" height="25"/>
 </span>
 &nbsp;
@@ -40,6 +36,15 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 <span><img src="https://img.shields.io/badge/TailwindCSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="TailwindCSS logo" title="TailwindCSS" height="25"/></span>
 &nbsp;
 
+### <u> Mobile App Development Technologies & Tools: </u>
+
+<br>
+
+<span>
+<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
+</span>
+&nbsp;
+
 ### <u> Database Management: </u>
 
 <br>
@@ -47,15 +52,6 @@ Experienced developer in web💻, mobile📱, and desktop applications🖥, prof
 &nbsp;
 <span>
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
-</span>
-&nbsp;
-
-### <u> Mobile App Development Technologies & Tools: </u>
-
-<br>
-
-<span>
-<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
 </span>
 &nbsp;
 
